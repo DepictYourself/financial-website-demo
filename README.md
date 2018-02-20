@@ -3,8 +3,7 @@
 This demo website was designed and built by me.
 
 * responsive design and code
-* 
-* old browser support
+* older browser support
 
 ### Used webtechnologies and libraries
 
@@ -13,3 +12,5 @@ This demo website was designed and built by me.
 * [animate.css](https://daneden.github.io/animate.css/)
 * [waypoints](http://imakewebthings.com/waypoints/)
 * Google maps API - [gmaps.js](https://hpneo.github.io/gmaps/)
+* [html5shiv](https://github.com/aFarkas/html5shiv)
+* [selectivizr](http://selectivizr.com/)
