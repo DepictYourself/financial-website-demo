@@ -6,7 +6,7 @@ This demo website was designed and built by me.
 * 
 * old browser support
 
-### Used webtechnologies
+### Used webtechnologies and libraries
 
 * jquery
 * jquery-ui
