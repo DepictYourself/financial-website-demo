@@ -11,6 +11,5 @@ This demo website was designed and built by me.
 * jquery-ui
 * [animate.css](https://daneden.github.io/animate.css/)
 * [waypoints](http://imakewebthings.com/waypoints/)
-* Google maps API - [gmaps.js](https://hpneo.github.io/gmaps/)
 * [html5shiv](https://github.com/aFarkas/html5shiv)
 * [selectivizr](http://selectivizr.com/)
